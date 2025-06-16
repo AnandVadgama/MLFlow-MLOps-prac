@@ -21,7 +21,7 @@ pip install mlflow dagshub scikit-learn pandas matplotlib seaborn
 ```bash
 mlflow ui
 ```
-After Open: http://127.0.0.1:5000
+After Open at your local: http://127.0.0.1:5000
 
 3. For DagsHub remote logging (already configured):
 ```python
