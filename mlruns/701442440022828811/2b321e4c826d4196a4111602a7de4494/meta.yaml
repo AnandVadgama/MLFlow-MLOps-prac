@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/2b321e4c826d4196a4111602a7de4494/artifacts
+end_time: 1750082327367
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 2b321e4c826d4196a4111602a7de4494
+run_name: loud-shad-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082316159
+status: 3
+tags: []
+user_id: anandvadgama

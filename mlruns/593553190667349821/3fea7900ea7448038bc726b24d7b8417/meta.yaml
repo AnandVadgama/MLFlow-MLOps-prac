@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/3fea7900ea7448038bc726b24d7b8417/artifacts
+end_time: 1750082126003
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 3fea7900ea7448038bc726b24d7b8417
+run_name: rare-boar-784
+run_uuid: 3fea7900ea7448038bc726b24d7b8417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082125347
+status: 4
+tags: []
+user_id: anandvadgama

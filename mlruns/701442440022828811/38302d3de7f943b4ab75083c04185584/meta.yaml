@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/38302d3de7f943b4ab75083c04185584/artifacts
+end_time: 1750082322920
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 38302d3de7f943b4ab75083c04185584
+run_name: delicate-cat-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082322868
+status: 3
+tags: []
+user_id: anandvadgama

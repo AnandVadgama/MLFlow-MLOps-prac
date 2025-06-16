@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/11e730c365e7416c9c2518f7a985ad89/artifacts
+end_time: 1750082181337
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 11e730c365e7416c9c2518f7a985ad89
+run_name: invincible-swan-656
+run_uuid: 11e730c365e7416c9c2518f7a985ad89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082180790
+status: 4
+tags: []
+user_id: anandvadgama

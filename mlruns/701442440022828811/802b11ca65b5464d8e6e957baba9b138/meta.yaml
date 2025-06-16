@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/802b11ca65b5464d8e6e957baba9b138/artifacts
+end_time: 1750082322974
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 802b11ca65b5464d8e6e957baba9b138
+run_name: stately-doe-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082322955
+status: 3
+tags: []
+user_id: anandvadgama

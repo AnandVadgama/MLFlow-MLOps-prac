@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/d98ec929e8874f2c8857d5582230cd3c/artifacts
+end_time: 1750082323047
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: d98ec929e8874f2c8857d5582230cd3c
+run_name: debonair-stag-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323026
+status: 3
+tags: []
+user_id: anandvadgama

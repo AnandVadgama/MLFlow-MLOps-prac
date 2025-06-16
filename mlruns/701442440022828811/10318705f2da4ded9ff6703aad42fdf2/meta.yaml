@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/10318705f2da4ded9ff6703aad42fdf2/artifacts
+end_time: 1750082323122
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 10318705f2da4ded9ff6703aad42fdf2
+run_name: whimsical-mouse-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323091
+status: 3
+tags: []
+user_id: anandvadgama

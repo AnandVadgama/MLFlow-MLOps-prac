@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/7b3f2a29b2de4510b46128c9c987f612/artifacts
+end_time: 1750073486607
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 7b3f2a29b2de4510b46128c9c987f612
+run_name: youthful-dove-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750073486557
+status: 3
+tags: []
+user_id: anandvadgama

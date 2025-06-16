@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/0676a7d6a2154f90a09c7814776bf242/artifacts
+end_time: 1750082322997
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 0676a7d6a2154f90a09c7814776bf242
+run_name: popular-stork-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082322978
+status: 3
+tags: []
+user_id: anandvadgama

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/7fe0ae4b4347478e8851d33a1e62075e/artifacts
+end_time: 1750082239600
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 7fe0ae4b4347478e8851d33a1e62075e
+run_name: sneaky-stoat-765
+run_uuid: 7fe0ae4b4347478e8851d33a1e62075e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082239053
+status: 4
+tags: []
+user_id: anandvadgama

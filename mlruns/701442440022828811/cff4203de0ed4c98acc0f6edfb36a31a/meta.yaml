@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/cff4203de0ed4c98acc0f6edfb36a31a/artifacts
+end_time: 1750082323022
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: cff4203de0ed4c98acc0f6edfb36a31a
+run_name: angry-mare-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323002
+status: 3
+tags: []
+user_id: anandvadgama

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/e9e8d63f927c44f9ad9dacde1db12411/artifacts
+end_time: 1750082323088
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: e9e8d63f927c44f9ad9dacde1db12411
+run_name: charming-moose-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323073
+status: 3
+tags: []
+user_id: anandvadgama

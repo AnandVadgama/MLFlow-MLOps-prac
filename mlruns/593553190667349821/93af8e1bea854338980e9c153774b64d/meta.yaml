@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/93af8e1bea854338980e9c153774b64d/artifacts
+end_time: 1750082302453
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 93af8e1bea854338980e9c153774b64d
+run_name: redolent-flea-219
+run_uuid: 93af8e1bea854338980e9c153774b64d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082301884
+status: 4
+tags: []
+user_id: anandvadgama

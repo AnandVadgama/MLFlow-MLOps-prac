@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/56fb318bed0942fd91b515c8e650e4ba/artifacts
+end_time: 1750082323163
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 56fb318bed0942fd91b515c8e650e4ba
+run_name: intelligent-colt-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323148
+status: 3
+tags: []
+user_id: anandvadgama

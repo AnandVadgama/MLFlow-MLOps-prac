@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/0a2f9d2d737c4aafbbd9a9fa8c7039a0/artifacts
+end_time: 1750075243652
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 0a2f9d2d737c4aafbbd9a9fa8c7039a0
+run_name: zealous-shrike-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750075238883
+status: 3
+tags: []
+user_id: anandvadgama

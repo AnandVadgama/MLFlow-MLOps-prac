@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/1870430d010749e8977d36e62d389935/artifacts
+end_time: 1750081634806
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 1870430d010749e8977d36e62d389935
+run_name: unequaled-mink-205
+run_uuid: 1870430d010749e8977d36e62d389935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750081634251
+status: 4
+tags: []
+user_id: anandvadgama

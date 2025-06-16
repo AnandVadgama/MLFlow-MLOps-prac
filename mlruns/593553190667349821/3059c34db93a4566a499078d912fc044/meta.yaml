@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593553190667349821/3059c34db93a4566a499078d912fc044/artifacts
+end_time: 1750081698841
+entry_point_name: ''
+experiment_id: '593553190667349821'
+lifecycle_stage: active
+run_id: 3059c34db93a4566a499078d912fc044
+run_name: angry-robin-288
+run_uuid: 3059c34db93a4566a499078d912fc044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750081698308
+status: 4
+tags: []
+user_id: anandvadgama

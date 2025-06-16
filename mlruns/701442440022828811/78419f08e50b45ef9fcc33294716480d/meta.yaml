@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/78419f08e50b45ef9fcc33294716480d/artifacts
+end_time: 1750082323181
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: 78419f08e50b45ef9fcc33294716480d
+run_name: useful-rat-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323166
+status: 3
+tags: []
+user_id: anandvadgama

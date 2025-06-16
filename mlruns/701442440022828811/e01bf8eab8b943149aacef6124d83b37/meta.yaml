@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/701442440022828811/e01bf8eab8b943149aacef6124d83b37/artifacts
+end_time: 1750082323069
+entry_point_name: ''
+experiment_id: '701442440022828811'
+lifecycle_stage: active
+run_id: e01bf8eab8b943149aacef6124d83b37
+run_name: bedecked-squid-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750082323052
+status: 3
+tags: []
+user_id: anandvadgama
